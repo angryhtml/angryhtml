@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello! 👋 Welcome to my GitHub!
 
-<!--
-**angryhtml/angryhtml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Frontend Developer** experienced in HTML, CSS, JavaScript, and React.  
+🛠️ Building responsive and modern web applications.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💡 Open to Collaboration
+- Ready to take on small projects, improve existing websites, or make adjustments.  
+- Interested in team projects and contributing to open-source.  
+
+---
+
+### 🖥️ Examples of My Work
+- [**Weather App**](https://myweatheronline.netlify.app/)
+- [**Card Game**](https://card-memory-gamee.netlify.app/).  
