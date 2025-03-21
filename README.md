@@ -13,4 +13,5 @@
 
 ### 🖥️ Examples of My Work
 - [**Weather App**](https://myweatheronline.netlify.app/)
-- [**Card Game**](https://card-memory-gamee.netlify.app/).  
+- [**Pricing Panel**](https://pricing-paneldemo.netlify.app/)
+- [**Registration Form**](https://registrationform-staticmethods.netlify.app/)
