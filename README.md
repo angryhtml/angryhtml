@@ -13,5 +13,7 @@
 
 ### 🖥️ Examples of My Work
 - [**Weather App**](https://myweatheronline.netlify.app/)
+- [**Landing Page for design course**](https://codesignfreecourse.netlify.app/)
+- [**Programming Joke Randomizer**](https://randomjoke-api.netlify.app/)
 - [**Pricing Panel**](https://pricing-paneldemo.netlify.app/)
 - [**Registration Form**](https://registrationform-staticmethods.netlify.app/)
