@@ -1,5 +1,5 @@
 # Hello! 👋 Welcome to my GitHub!
-🎯 **Frontend Developer** experienced in HTML, CSS, JavaScript, and React.  
+🎯 **Frontend Developer** experienced in HTML, CSS, JavaScript, TypeScript and React.  
 🛠️ Building responsive and modern web applications.  
 
 ---
