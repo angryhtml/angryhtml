@@ -9,6 +9,6 @@
 ---
 ### 🖥️ Examples of My Work
 - [**Weather App**](https://myweatheronline.netlify.app/)
-- [**React + Tailwind Task Manager**](https://taskmanagerlab.netlify.app/))
+- [**React + Tailwind Task Manager**](https://taskmanagerlab.netlify.app/)
 - [**Landing Page for design course**](https://codesignfreecourse.netlify.app/)
 - [**Programming Joke Randomizer**](https://randomjoke-api.netlify.app/)
